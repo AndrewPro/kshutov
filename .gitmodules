@@ -1,7 +1,8 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "public"]
-	path = public
-	url = git@github.com:AndrewPro/kshutov.git
-	branch = main
+
+# [submodule "public"]
+# 	path = public
+# 	url = git@github.com:AndrewPro/kshutov.git
+# 	branch = main
